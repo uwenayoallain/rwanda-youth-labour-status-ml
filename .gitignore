@@ -1,0 +1,21 @@
+# Raw and processed data must never be committed (assignment rule + NISR confidentiality terms)
+data/
+*.dta
+*.sav
+*.zip
+
+# Outputs produced by running the notebook (shared through Google Drive instead)
+reports/
+models/
+logs/
+
+# Python / Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
