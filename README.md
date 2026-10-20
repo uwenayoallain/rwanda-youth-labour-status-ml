@@ -27,7 +27,8 @@ Two modelling paradigms are compared on the same preprocessing pipeline:
 | Resource | Link |
 |----------|------|
 | Google Drive (raw data zip, saved models, TensorBoard logs, figures) | https://drive.google.com/drive/folders/1Ol9Xh2oEHdOokqBWSNi8RFORV1d6g2q_?usp=sharing |
-| Video presentation | _to be added_ |
+| Video presentation | https://drive.google.com/file/d/1GS4BKHDEHfGgvfhpU4ekYHS1iEtH5SWQ/view?usp=sharing |
+| Notebook on Colab (executed copy) | https://drive.google.com/file/d/1MXTtlccln8AZtB4gBdI_N_89mthOVT65/view?usp=sharing |
 
 ## Dataset
 
